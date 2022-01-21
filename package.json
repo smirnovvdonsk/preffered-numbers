@@ -1,0 +1,12 @@
+{
+  "name": "@smirnovvdonsk/preffered-numbers",
+  "version": "1.0.0",
+  "description": "Preffered numbers acc. to ISO 3 / ГОСТ 8032.",
+  "type":"module",
+  "main": "index.js",
+  "author": {
+    "name": "smirnovvdonsk",
+    "email": "smirnovvdonsk@mail.ru"
+  },
+  "license": "MIT"
+}
