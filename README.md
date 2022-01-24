@@ -1,5 +1,6 @@
 # preffered-numbers
 Preffered numbers acc. to ISO 3 / ГОСТ 8032.
+
 Example:
 ```js
 import * as prefferedNumbers from '@smirnovvdonsk/polynome'
